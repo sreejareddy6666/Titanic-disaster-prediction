@@ -2,8 +2,8 @@
 The objective of this project is to conduct exploratory data analysis (EDA) and statistical modelling on the Titanic Dataset in order to gather insights and eventually predicting survivor using classification algorithms 
 
 
-#Data Dictionary
-Variable	Definition	Key
+#Data Dictionary#
+
 survival=Survival[0 = No, 1 = Yes]
 pclass=Ticket class	[1 = 1st, 2 = 2nd, 3 = 3rd]
 sex=Sex	
@@ -16,7 +16,8 @@ cabin=Cabin number
 embarked=Port of Embarkation	[C = Cherbourg, Q = Queenstown, S = Southampton]
 
 
-#Variable Notes
+#Variable Notes#
+
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
